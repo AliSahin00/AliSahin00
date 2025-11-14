@@ -13,13 +13,3 @@ SA
 [![](https://visitcount.itsvg.in/api?id=AliSahin00&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-## 🕹️ Warp Flappy Bird
-
-Projeyi Warp geliştirme sunucusu ile çalıştırmak için:
-
-```bash
-warp serve
-```
-
-Komut varsayılan olarak `public/` dizinindeki `index.php` dosyasını kullanır ve tarayıcınızda Flappy Bird klonunu açar. Boşluk tuşu ile kuşu zıplatabilir, `R` ile oyunu sıfırlayabilirsiniz.
